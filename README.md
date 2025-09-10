@@ -6,4 +6,3 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanhs91&layout=compact&theme=onedark)
 
-![Snake animation](https://github.com/ruanhs91/ruanhs91/blob/output/github-contribution-grid-snake.svg)
